@@ -1,0 +1,21 @@
+body {
+  background-color: #e4f9f5;
+}
+
+hr {
+  border: 7px #40514e;
+  border-style: none none dotted;
+  width: 20%;
+}
+
+img {
+  border-radius: 100px;
+}
+
+h1 {
+  color: #11999e;
+}
+
+h3 {
+  color: #30e3ca;
+}
